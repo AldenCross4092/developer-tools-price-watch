@@ -1,0 +1,1 @@
+"""Price watch example package."""
